@@ -1,0 +1,28 @@
+.logo {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    object-fit: contain;
+  }
+  
+  .chart {
+    height: 40px;
+    width: 100px;
+    object-fit: contain;
+  }
+  
+  .green {
+    color: #16c784;
+    font-weight: 500;
+  }
+  
+  .red {
+    color: #ea3943;
+    font-weight: 500;
+  }
+  
+  tr:hover {
+    background-color: #f9f9f9;
+    transition: background 0.2s ease;
+  }
+  
